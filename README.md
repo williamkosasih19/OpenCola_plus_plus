@@ -1,7 +1,7 @@
-OpenCola
+OpenCola++
 ========
 
-Open Source Coca Cola
+Open Source Coca Cola(plus plus)
 
 OpenCola is a brand of open source cola, where the instructions for making it are freely available and modifiable.
 Anybody can make the drink, and anyone can modify and improve on the recipe as long as they,
